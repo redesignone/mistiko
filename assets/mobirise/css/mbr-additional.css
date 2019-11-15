@@ -102,7 +102,7 @@ body {
   background-color: #365c9a !important;
 }
 .bg-info {
-  background-color: #e96188 !important;
+  background-color: #ed1855 !important;
 }
 .bg-warning {
   background-color: #fac769 !important;
@@ -153,22 +153,22 @@ body {
 .btn-info,
 .btn-info:active,
 .btn-info.active {
-  background-color: #e96188 !important;
-  border-color: #e96188 !important;
+  background-color: #ed1855 !important;
+  border-color: #ed1855 !important;
   color: #ffffff !important;
 }
 .btn-info:hover,
 .btn-info:focus,
 .btn-info.focus {
   color: #ffffff !important;
-  background-color: #df1f56 !important;
-  border-color: #df1f56 !important;
+  background-color: #ab0d3b !important;
+  border-color: #ab0d3b !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #df1f56 !important;
-  border-color: #df1f56 !important;
+  background-color: #ab0d3b !important;
+  border-color: #ab0d3b !important;
 }
 .btn-success,
 .btn-success:active,
@@ -328,21 +328,21 @@ body {
 .btn-info-outline:active,
 .btn-info-outline.active {
   background: none;
-  border-color: #c81c4d;
-  color: #c81c4d !important;
+  border-color: #940b32;
+  color: #940b32 !important;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus {
   color: #ffffff !important;
-  background-color: #e96188;
-  border-color: #e96188;
+  background-color: #ed1855;
+  border-color: #ed1855;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #e96188 !important;
-  border-color: #e96188 !important;
+  background-color: #ed1855 !important;
+  border-color: #ed1855 !important;
 }
 .btn-success-outline,
 .btn-success-outline:active,
@@ -448,7 +448,7 @@ body {
   color: #365c9a !important;
 }
 .text-info {
-  color: #e96188 !important;
+  color: #ed1855 !important;
 }
 .text-warning {
   color: #fac769 !important;
@@ -476,7 +476,7 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #c81c4d !important;
+  color: #940b32 !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -498,7 +498,7 @@ a.text-black:focus {
   background-color: #365c9a;
 }
 .alert-info {
-  background-color: #e96188;
+  background-color: #ed1855;
 }
 .alert-warning {
   background-color: #fac769;
@@ -544,7 +544,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #fcd5e0;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
