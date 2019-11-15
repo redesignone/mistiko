@@ -659,7 +659,7 @@ section.lazy-placeholder:after {
   width: 0;
   position: absolute;
   left: 1rem;
-  color: #e96188;
+  color: #ffffff;
   top: 0.5rem;
   margin-right: 0.5rem;
   line-height: 1;
@@ -698,7 +698,7 @@ section.lazy-placeholder:after {
     left: 0;
     right: 100%;
     bottom: -0.2em;
-    background: #e96188;
+    background: #ffffff;
     height: 3px;
     -webkit-transition-property: right;
     transition-property: right;
@@ -755,11 +755,11 @@ section.lazy-placeholder:after {
 .cid-rzBdwvh61V .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #e96188;
+  background: #000000;
 }
 .cid-rzBdwvh61V .navbar.opened {
   transition: all .3s;
-  background: #e96188 !important;
+  background: #000000 !important;
 }
 .cid-rzBdwvh61V .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -856,7 +856,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rzBdwvh61V .navbar.navbar-short {
-  background: #e96188 !important;
+  background: #000000 !important;
   min-height: 60px;
 }
 .cid-rzBdwvh61V .navbar.navbar-short .navbar-logo img {
@@ -904,7 +904,7 @@ section.lazy-placeholder:after {
   right: 1.667em;
 }
 .cid-rzBdwvh61V .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #e96188;
+  background: #000000;
 }
 .cid-rzBdwvh61V .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -936,7 +936,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-rzBdwvh61V button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
